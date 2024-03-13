@@ -1,0 +1,15 @@
+C:\Users\Appinventiv\source\repos\AzureFunctionBase\AzureFunction.Application\bin\Debug\net6.0\AzureFunction.Application.deps.json
+C:\Users\Appinventiv\source\repos\AzureFunctionBase\AzureFunction.Application\bin\Debug\net6.0\AzureFunction.Application.dll
+C:\Users\Appinventiv\source\repos\AzureFunctionBase\AzureFunction.Application\bin\Debug\net6.0\AzureFunction.Application.pdb
+C:\Users\Appinventiv\source\repos\AzureFunctionBase\AzureFunction.Application\bin\Debug\net6.0\AzureFunction.Domain.dll
+C:\Users\Appinventiv\source\repos\AzureFunctionBase\AzureFunction.Application\bin\Debug\net6.0\AzureFunction.Domain.pdb
+C:\Users\Appinventiv\source\repos\AzureFunctionBase\AzureFunction.Application\obj\Debug\net6.0\AzureFunction.Application.csproj.AssemblyReference.cache
+C:\Users\Appinventiv\source\repos\AzureFunctionBase\AzureFunction.Application\obj\Debug\net6.0\AzureFunction.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Appinventiv\source\repos\AzureFunctionBase\AzureFunction.Application\obj\Debug\net6.0\AzureFunction.Application.AssemblyInfoInputs.cache
+C:\Users\Appinventiv\source\repos\AzureFunctionBase\AzureFunction.Application\obj\Debug\net6.0\AzureFunction.Application.AssemblyInfo.cs
+C:\Users\Appinventiv\source\repos\AzureFunctionBase\AzureFunction.Application\obj\Debug\net6.0\AzureFunction.Application.csproj.CoreCompileInputs.cache
+C:\Users\Appinventiv\source\repos\AzureFunctionBase\AzureFunction.Application\obj\Debug\net6.0\AzureFun.AB23D461.Up2Date
+C:\Users\Appinventiv\source\repos\AzureFunctionBase\AzureFunction.Application\obj\Debug\net6.0\AzureFunction.Application.dll
+C:\Users\Appinventiv\source\repos\AzureFunctionBase\AzureFunction.Application\obj\Debug\net6.0\refint\AzureFunction.Application.dll
+C:\Users\Appinventiv\source\repos\AzureFunctionBase\AzureFunction.Application\obj\Debug\net6.0\AzureFunction.Application.pdb
+C:\Users\Appinventiv\source\repos\AzureFunctionBase\AzureFunction.Application\obj\Debug\net6.0\ref\AzureFunction.Application.dll

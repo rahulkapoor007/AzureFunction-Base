@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunction.FunctionApp", "AzureFunction.FunctionApp\AzureFunction.FunctionApp.csproj", "{ACD19713-3275-4C37-953E-56BBCAB9723A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{42CD61B1-7F18-4B8B-AB05-FCE261FBA1A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunction.Domain", "Domain\AzureFunction.Domain.csproj", "{52803916-A535-42CE-9988-255C2D8B6879}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{16B93F70-67F4-48A6-BD0A-04FC36B87D77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{2A6B011A-38E0-4EDD-B754-EABE67DFC739}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{24FE8EBD-6DF1-47CF-82AD-5C9242E31C00}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunction.Application", "AzureFunction.Application\AzureFunction.Application.csproj", "{DD3A83FA-1647-47E1-B8AD-029E667F5175}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistence", "Persistence", "{58F11FE1-DA67-4D4D-A1F5-D180DEF4AACA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunction.Infrastructure", "AzureFunction.Infrastructure\AzureFunction.Infrastructure.csproj", "{0AB4EF89-83AB-400D-8F66-9E4027B700F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{75AA0D78-FBBE-49AA-8935-1AEAF741A451}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Postman Collections", "Postman Collections", "{09C16F62-EA73-413D-80AD-1BA2E19D9518}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\AzureFunction.Base.postman_collection.json = ..\..\..\Downloads\AzureFunction.Base.postman_collection.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD19713-3275-4C37-953E-56BBCAB9723A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD19713-3275-4C37-953E-56BBCAB9723A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD19713-3275-4C37-953E-56BBCAB9723A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD19713-3275-4C37-953E-56BBCAB9723A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52803916-A535-42CE-9988-255C2D8B6879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52803916-A535-42CE-9988-255C2D8B6879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52803916-A535-42CE-9988-255C2D8B6879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52803916-A535-42CE-9988-255C2D8B6879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD3A83FA-1647-47E1-B8AD-029E667F5175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3A83FA-1647-47E1-B8AD-029E667F5175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3A83FA-1647-47E1-B8AD-029E667F5175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3A83FA-1647-47E1-B8AD-029E667F5175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB4EF89-83AB-400D-8F66-9E4027B700F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB4EF89-83AB-400D-8F66-9E4027B700F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB4EF89-83AB-400D-8F66-9E4027B700F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB4EF89-83AB-400D-8F66-9E4027B700F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ACD19713-3275-4C37-953E-56BBCAB9723A} = {16B93F70-67F4-48A6-BD0A-04FC36B87D77}
+		{52803916-A535-42CE-9988-255C2D8B6879} = {2A6B011A-38E0-4EDD-B754-EABE67DFC739}
+		{16B93F70-67F4-48A6-BD0A-04FC36B87D77} = {42CD61B1-7F18-4B8B-AB05-FCE261FBA1A2}
+		{2A6B011A-38E0-4EDD-B754-EABE67DFC739} = {42CD61B1-7F18-4B8B-AB05-FCE261FBA1A2}
+		{24FE8EBD-6DF1-47CF-82AD-5C9242E31C00} = {42CD61B1-7F18-4B8B-AB05-FCE261FBA1A2}
+		{DD3A83FA-1647-47E1-B8AD-029E667F5175} = {24FE8EBD-6DF1-47CF-82AD-5C9242E31C00}
+		{58F11FE1-DA67-4D4D-A1F5-D180DEF4AACA} = {42CD61B1-7F18-4B8B-AB05-FCE261FBA1A2}
+		{0AB4EF89-83AB-400D-8F66-9E4027B700F1} = {58F11FE1-DA67-4D4D-A1F5-D180DEF4AACA}
+		{09C16F62-EA73-413D-80AD-1BA2E19D9518} = {75AA0D78-FBBE-49AA-8935-1AEAF741A451}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DD561D1-E5D1-4E7A-9DCC-4732FF550FBC}
+	EndGlobalSection
+EndGlobal

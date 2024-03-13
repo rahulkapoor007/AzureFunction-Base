@@ -1,0 +1,589 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA0D78-FBBE-49AA-8935-1AEAF741A451}|Solution Items{75AA0D78-FBBE-49AA-8935-1AEAF741A451}|C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{75AA0D78-FBBE-49AA-8935-1AEAF741A451}|Solution Items{75AA0D78-FBBE-49AA-8935-1AEAF741A451}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C16F62-EA73-413D-80AD-1BA2E19D9518}|Postman Collections{09C16F62-EA73-413D-80AD-1BA2E19D9518}|C:\\Users\\Appinventiv\\Downloads\\AzureFunction.Base.postman_collection.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\features\\users\\getallusers\\getallusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\features\\users\\getallusers\\getallusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD19713-3275-4C37-953E-56BBCAB9723A}|AzureFunction.FunctionApp\\AzureFunction.FunctionApp.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.functionapp\\functions\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD19713-3275-4C37-953E-56BBCAB9723A}|AzureFunction.FunctionApp\\AzureFunction.FunctionApp.csproj|solutionrelative:azurefunction.functionapp\\functions\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\features\\users\\getallusers\\getallusersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\features\\users\\getallusers\\getallusersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\middlewares\\httptriggerfunctionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\middlewares\\httptriggerfunctionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\common\\functionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\common\\functionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\common\\functionsbase\u002Bstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\common\\functionsbase\u002Bstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\base\\callcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\base\\callcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\base\\interfaces\\ibasedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\base\\interfaces\\ibasedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\base\\interfaces\\icallcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\base\\interfaces\\icallcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\middlewares\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\middlewares\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD19713-3275-4C37-953E-56BBCAB9723A}|AzureFunction.FunctionApp\\AzureFunction.FunctionApp.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.functionapp\\extensions\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD19713-3275-4C37-953E-56BBCAB9723A}|AzureFunction.FunctionApp\\AzureFunction.FunctionApp.csproj|solutionrelative:azurefunction.functionapp\\extensions\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\features\\users\\getuserbyid\\getuserbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\features\\users\\getuserbyid\\getuserbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\extensions\\httprequestextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\extensions\\httprequestextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\features\\users\\getuserbyid\\getuserbyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\features\\users\\getuserbyid\\getuserbyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\features\\users\\createusers\\createusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\features\\users\\createusers\\createusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52803916-A535-42CE-9988-255C2D8B6879}|Domain\\AzureFunction.Domain.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\domain\\entities\\constants\\systemmessagesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52803916-A535-42CE-9988-255C2D8B6879}|Domain\\AzureFunction.Domain.csproj|solutionrelative:domain\\entities\\constants\\systemmessagesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD19713-3275-4C37-953E-56BBCAB9723A}|AzureFunction.FunctionApp\\AzureFunction.FunctionApp.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.functionapp\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD19713-3275-4C37-953E-56BBCAB9723A}|AzureFunction.FunctionApp\\AzureFunction.FunctionApp.csproj|solutionrelative:azurefunction.functionapp\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\features\\users\\createusers\\createusersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\features\\users\\createusers\\createusersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\base\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\base\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52803916-A535-42CE-9988-255C2D8B6879}|Domain\\AzureFunction.Domain.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\domain\\entities\\response\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52803916-A535-42CE-9988-255C2D8B6879}|Domain\\AzureFunction.Domain.csproj|solutionrelative:domain\\entities\\response\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52803916-A535-42CE-9988-255C2D8B6879}|Domain\\AzureFunction.Domain.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\domain\\entities\\response\\successresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52803916-A535-42CE-9988-255C2D8B6879}|Domain\\AzureFunction.Domain.csproj|solutionrelative:domain\\entities\\response\\successresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\extensions\\jsonextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\extensions\\jsonextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52803916-A535-42CE-9988-255C2D8B6879}|Domain\\AzureFunction.Domain.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\domain\\entities\\requestresponselogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52803916-A535-42CE-9988-255C2D8B6879}|Domain\\AzureFunction.Domain.csproj|solutionrelative:domain\\entities\\requestresponselogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52803916-A535-42CE-9988-255C2D8B6879}|Domain\\AzureFunction.Domain.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\domain\\entities\\exceptions\\applicationerrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52803916-A535-42CE-9988-255C2D8B6879}|Domain\\AzureFunction.Domain.csproj|solutionrelative:domain\\entities\\exceptions\\applicationerrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\base\\interfaces\\iapiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\base\\interfaces\\iapiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\base\\interfaces\\idownloadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\base\\interfaces\\idownloadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\base\\interfaces\\iformdatalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\base\\interfaces\\iformdatalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\base\\interfaces\\iformdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\base\\interfaces\\iformdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.application\\azurefunction.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD3A83FA-1647-47E1-B8AD-029E667F5175}|AzureFunction.Application\\AzureFunction.Application.csproj|solutionrelative:azurefunction.application\\azurefunction.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52803916-A535-42CE-9988-255C2D8B6879}|Domain\\AzureFunction.Domain.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\domain\\entities\\constants\\configwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52803916-A535-42CE-9988-255C2D8B6879}|Domain\\AzureFunction.Domain.csproj|solutionrelative:domain\\entities\\constants\\configwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52803916-A535-42CE-9988-255C2D8B6879}|Domain\\AzureFunction.Domain.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\domain\\azurefunction.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52803916-A535-42CE-9988-255C2D8B6879}|Domain\\AzureFunction.Domain.csproj|solutionrelative:domain\\azurefunction.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD19713-3275-4C37-953E-56BBCAB9723A}|AzureFunction.FunctionApp\\AzureFunction.FunctionApp.csproj|c:\\users\\appinventiv\\source\\repos\\azurefunctionbase\\azurefunction.functionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD19713-3275-4C37-953E-56BBCAB9723A}|AzureFunction.FunctionApp\\AzureFunction.FunctionApp.csproj|solutionrelative:azurefunction.functionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllUsersHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Features\\Users\\GetAllUsers\\GetAllUsersHandler.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Features\\Users\\GetAllUsers\\GetAllUsersHandler.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Features\\Users\\GetAllUsers\\GetAllUsersHandler.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Features\\Users\\GetAllUsers\\GetAllUsersHandler.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAtwCAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:13:46.23Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetUserByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Features\\Users\\GetUserById\\GetUserByIdHandler.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Features\\Users\\GetUserById\\GetUserByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Features\\Users\\GetUserById\\GetUserByIdHandler.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Features\\Users\\GetUserById\\GetUserByIdHandler.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:13:55.26Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserApi.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.FunctionApp\\Functions\\UserApi.cs",
+              "RelativeDocumentMoniker": "AzureFunction.FunctionApp\\Functions\\UserApi.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.FunctionApp\\Functions\\UserApi.cs",
+              "RelativeToolTip": "AzureFunction.FunctionApp\\Functions\\UserApi.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAqwDYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:48:39.752Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateUsersRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Features\\Users\\CreateUsers\\CreateUsersRequest.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Features\\Users\\CreateUsers\\CreateUsersRequest.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Features\\Users\\CreateUsers\\CreateUsersRequest.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Features\\Users\\CreateUsers\\CreateUsersRequest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAASwAsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:20:23.758Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateUsersHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Features\\Users\\CreateUsers\\CreateUsersHandler.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Features\\Users\\CreateUsers\\CreateUsersHandler.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Features\\Users\\CreateUsers\\CreateUsersHandler.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Features\\Users\\CreateUsers\\CreateUsersHandler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAhwB0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:19:58.587Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FunctionsBase\u002BStatic.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Common\\FunctionsBase\u002BStatic.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Common\\FunctionsBase\u002BStatic.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Common\\FunctionsBase\u002BStatic.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Common\\FunctionsBase\u002BStatic.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAApwA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:08:15.74Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HttpTriggerFunctionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Middlewares\\HttpTriggerFunctionMiddleware.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Middlewares\\HttpTriggerFunctionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Middlewares\\HttpTriggerFunctionMiddleware.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Middlewares\\HttpTriggerFunctionMiddleware.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:43:31.052Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FunctionBase.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Common\\FunctionBase.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Common\\FunctionBase.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Common\\FunctionBase.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Common\\FunctionBase.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAswHMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:07:47.619Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-03-13T19:34:27.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AzureFunction.Base.postman_collection.json",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\Downloads\\AzureFunction.Base.postman_collection.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\AzureFunction.Base.postman_collection.json",
+              "ToolTip": "C:\\Users\\Appinventiv\\Downloads\\AzureFunction.Base.postman_collection.json",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\AzureFunction.Base.postman_collection.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T22:32:20.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:45:10.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetUserByIdRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Features\\Users\\GetUserById\\GetUserByIdRequest.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Features\\Users\\GetUserById\\GetUserByIdRequest.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Features\\Users\\GetUserById\\GetUserByIdRequest.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Features\\Users\\GetUserById\\GetUserByIdRequest.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:30:58.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICallContext.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Base\\Interfaces\\ICallContext.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Base\\Interfaces\\ICallContext.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Base\\Interfaces\\ICallContext.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Base\\Interfaces\\ICallContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:12:48.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBaseData.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Base\\Interfaces\\IBaseData.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Base\\Interfaces\\IBaseData.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Base\\Interfaces\\IBaseData.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Base\\Interfaces\\IBaseData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:13:03.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CallContext.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Base\\CallContext.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Base\\CallContext.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Base\\CallContext.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Base\\CallContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA/wBIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:48:02.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HttpRequestExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Extensions\\HttpRequestExtensions.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Extensions\\HttpRequestExtensions.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Extensions\\HttpRequestExtensions.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Extensions\\HttpRequestExtensions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:22:59.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllUsersRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Features\\Users\\GetAllUsers\\GetAllUsersRequest.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Features\\Users\\GetAllUsers\\GetAllUsersRequest.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Features\\Users\\GetAllUsers\\GetAllUsersRequest.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Features\\Users\\GetAllUsers\\GetAllUsersRequest.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAApwAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:17:03.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RequestResponseLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Middlewares\\RequestResponseLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Middlewares\\RequestResponseLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Middlewares\\RequestResponseLoggingMiddleware.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Middlewares\\RequestResponseLoggingMiddleware.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAQwHYAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:48:14.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.FunctionApp\\Extensions\\MiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "AzureFunction.FunctionApp\\Extensions\\MiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.FunctionApp\\Extensions\\MiddlewareExtensions.cs",
+              "RelativeToolTip": "AzureFunction.FunctionApp\\Extensions\\MiddlewareExtensions.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:42:39.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SystemMessageSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\Domain\\Entities\\Constants\\SystemMessageSettings.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Constants\\SystemMessageSettings.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\Domain\\Entities\\Constants\\SystemMessageSettings.cs",
+              "RelativeToolTip": "Domain\\Entities\\Constants\\SystemMessageSettings.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA+wBgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:32:04.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.FunctionApp\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "AzureFunction.FunctionApp\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.FunctionApp\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "AzureFunction.FunctionApp\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIAwwCYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:50:53.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SuccessResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\Domain\\Entities\\Response\\SuccessResponse.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Response\\SuccessResponse.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\Domain\\Entities\\Response\\SuccessResponse.cs",
+              "RelativeToolTip": "Domain\\Entities\\Response\\SuccessResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:22:32.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\Domain\\Entities\\Response\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Response\\User.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\Domain\\Entities\\Response\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\Response\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:25:00.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApiResult.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Base\\ApiResult.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Base\\ApiResult.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Base\\ApiResult.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Base\\ApiResult.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAASwDUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:35:17.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JsonExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Extensions\\JsonExtensions.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Extensions\\JsonExtensions.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Extensions\\JsonExtensions.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Extensions\\JsonExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:24:31.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RequestResponseLogModel.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\Domain\\Entities\\RequestResponseLogModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\RequestResponseLogModel.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\Domain\\Entities\\RequestResponseLogModel.cs",
+              "RelativeToolTip": "Domain\\Entities\\RequestResponseLogModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:49:51.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationErrorException.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\Domain\\Entities\\Exceptions\\ApplicationErrorException.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Exceptions\\ApplicationErrorException.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\Domain\\Entities\\Exceptions\\ApplicationErrorException.cs",
+              "RelativeToolTip": "Domain\\Entities\\Exceptions\\ApplicationErrorException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:46:20.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IApiResult.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Base\\Interfaces\\IApiResult.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Base\\Interfaces\\IApiResult.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Base\\Interfaces\\IApiResult.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Base\\Interfaces\\IApiResult.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAD4vwkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:29:35.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IDownloadRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Base\\Interfaces\\IDownloadRequest.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Base\\Interfaces\\IDownloadRequest.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Base\\Interfaces\\IDownloadRequest.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Base\\Interfaces\\IDownloadRequest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:30:40.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IFormDataList.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Base\\Interfaces\\IFormDataList.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Base\\Interfaces\\IFormDataList.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Base\\Interfaces\\IFormDataList.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Base\\Interfaces\\IFormDataList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:25:35.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IFormData.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Base\\Interfaces\\IFormData.cs",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\Base\\Interfaces\\IFormData.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\Base\\Interfaces\\IFormData.cs",
+              "RelativeToolTip": "AzureFunction.Application\\Base\\Interfaces\\IFormData.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:25:04.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AzureFunction.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\AzureFunction.Application.csproj",
+              "RelativeDocumentMoniker": "AzureFunction.Application\\AzureFunction.Application.csproj",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.Application\\AzureFunction.Application.csproj",
+              "RelativeToolTip": "AzureFunction.Application\\AzureFunction.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-12T20:18:05.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ConfigWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\Domain\\Entities\\Constants\\ConfigWrapper.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Constants\\ConfigWrapper.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\Domain\\Entities\\Constants\\ConfigWrapper.cs",
+              "RelativeToolTip": "Domain\\Entities\\Constants\\ConfigWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:17:00.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AzureFunction.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\Domain\\AzureFunction.Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\AzureFunction.Domain.csproj",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\Domain\\AzureFunction.Domain.csproj",
+              "RelativeToolTip": "Domain\\AzureFunction.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-12T19:58:33.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.FunctionApp\\Program.cs",
+              "RelativeDocumentMoniker": "AzureFunction.FunctionApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Appinventiv\\source\\repos\\AzureFunctionBase\\AzureFunction.FunctionApp\\Program.cs",
+              "RelativeToolTip": "AzureFunction.FunctionApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:52:35.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
